@@ -12,6 +12,7 @@
 1. Clone Project Ini
 2. Jalankan Perintah composer dump-autoload
 3. Test Menggunakan Postman
+4. untuk menjalankan test gunakan perintah php artisan test
 
 ## License
 
